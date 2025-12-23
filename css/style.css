@@ -105,3 +105,126 @@
   color: #777777;
   font-weight: 300;
 }
+.section-three {
+  margin-top: 80px;
+  padding: 80px 0;
+}
+.section-three .inner-border-button {
+  border-bottom: 1px solid #7777;
+  padding: 60px;
+}
+.section-three .inner-image {
+  margin-left: 20px;
+}
+.section-three .inner-image img {
+  width: 280px;
+  height: 280px;
+}
+.section-three .inner-content .title-content {
+  font-size: 24px;
+  font-weight: 400;
+  color: #1e1e1e;
+  margin-bottom: 30px;
+}
+.section-three .inner-desc {
+  font-size: 16px;
+  font-weight: 200;
+  color: #777;
+}
+.section-four {
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+.section-four .inner-content .inner-title {
+  font-size: 24px;
+  font-weight: 400;
+  color: #1e1e1e;
+  margin-bottom: 30px;
+}
+.section-four .inner-desc {
+  font-size: 16px;
+  font-weight: 200;
+  color: #777;
+}
+.section-four .inner-image {
+  margin-left: 200px;
+}
+.section-four .inner-image img {
+  width: 280px;
+  height: 280px;
+}
+.section-five {
+  background-image: url(../images/work-process-bg.png);
+  text-align: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px;
+
+}
+.section-five .inner-title {
+  margin-top: 80px;
+  color: #fff;
+  font-weight: 400;
+  margin-bottom: 30px;
+  
+}
+.section-five .inner-desc {
+  max-width: 540px;   
+  line-height: 1.8;
+  margin: auto;
+  font-size: 15px;
+  color: #fff;
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+.section-five .inner-box {
+  background: #fff;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.section-five .inner-box .inner-image img {
+  width: 32px;
+  height: 32px;
+}
+.section-five .title {
+  margin-top: 20px;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+.section-five .desc {
+  font-size: 14px;
+  font-weight: 200;
+}
+.section-six {
+  padding: 100px;
+}
+.section-six .inner-title {
+  font-size: 28px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.section-six .inner-desc {
+  font-size: 15px;
+  font-weight: 200;
+  max-width: 540px;
+  margin: auto;
+  padding-bottom: 40px;
+}
+.section-six .inner-box {
+  box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.10);
+  background: #FFFFFF;
+  padding: 0 20px;
+}
+.section-six .inner-image img{
+  width: 32px;
+  height: 32px;
+  margin: 25px 0;
+}
+.section-six .box-title {
+  font-size: 15px;
+  font-weight: 300;
+  color: ;
+}
+
