@@ -457,8 +457,35 @@
   color: #f2f2fe;
   background: var(--color-two);
 }
-
+.footer {
+  background: #895FE8;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
 .footer .inner-border-button {
   border-bottom: 1px solid #7777;
   margin-bottom: 20px;
+}
+.footer .inner-list {
+  text-align: center;
+  margin-right: 50px;
+}
+.footer .inner-list a {
+  width: 36px;
+  height: 36px;
+  background: #fff;
+  font-size: 16px;
+  border-radius: 50%;
+  display: inline-block;
+  line-height: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  color: #895FE8
+}.footer .inner-desc {
+  font-size: 13px;
+  color: #fff;
+  font-weight: 200;
+  margin-top: 40px;
 }
