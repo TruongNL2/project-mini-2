@@ -46,7 +46,13 @@
   }
   .header .inner-menu-icon {
     display: block;
-    font-size: 24px;
+   
+  }
+  .header .inner-main {
+    padding: 18px 22px;
+    width: 100%;
+    display: flex;
+    align-items: center;
   }
 }
 
@@ -555,4 +561,16 @@
   color: #fff;
   font-weight: 200;
   margin-top: 40px;
+}
+@media (max-width: 991.98px) {
+  .header {
+    left: 0;
+    right: 0;
+    width: 100vw;
+    padding: 0 12px;
+  }
+
+  .header .inner-main {
+    max-width: 100%;
+  }
 }
